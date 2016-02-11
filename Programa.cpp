@@ -5,7 +5,7 @@ int main()
 {
     std::string String;
 
-    String = "Alberto";
+    String = "Lucas";
 
     std::cout << "Alô mundo. Meu nome é " << String << std::endl;
 
