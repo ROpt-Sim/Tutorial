@@ -7,7 +7,8 @@ int main()
 
     String = "Lucas";
 
-    std::cout << "Alô mundo. Meu nome é " << String << std::endl;
+    std::cout << "Alô mundo. Meu nome é " << String
+	      << ", e estudo Engenharia Elétrica na UFCG" << std::endl;
 
     return 0;
 }
